@@ -1,1 +1,1 @@
-All the zip fills are meant to be placed in venv folder
+All the zip files are meant to be placed in venv folder and the pages,personal_portfolio, projects,templates,venv,db.sqlite3,manage.py  are all meant to be in a folder called Djanjo
