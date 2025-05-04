@@ -1,0 +1,5 @@
+https://realpython.com/get-started-with-django-1/
+
+$ source venv/bin/activate
+
+With the above commands, you create and activate a virtual environment named venv by using Python’s built-in venv module. The parenthetical (venv) in front of the prompt indicates that you’ve successfully activated the virtual environment.
